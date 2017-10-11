@@ -2,7 +2,7 @@
 
 ## Purpose and Use Cases
 
-The goal in this project is to process the transaction data of Ethereum (a cryptocurrency coin) to suggest a trade action (buy, sell, or no action). 
+The goal of this project is to process the transaction data of Ethereum (a cryptocurrency coin) to suggest a trade action (buy, sell, or no action). 
 
 The users of this model are people who invest in cryptocurrencies such as myself. This model would help the investors know at what price to sell or to buy. If the price remains within the suggested buy and sell range then no trade action would be recommended by this model. 
 
